@@ -28,4 +28,9 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 
 ## Resources
 
-<small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+<small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.
+com/5t3ph)</small>
+
+### Credits
+Link to picture [unsplash](https://unsplash.com/photos/8RfVXj0pTcY) by [Sergey Vinogradov](https://unsplash.com/@vinogradovspb)
+Link to favicon [Favicon generator](https://formito.com/tools/favicon)
